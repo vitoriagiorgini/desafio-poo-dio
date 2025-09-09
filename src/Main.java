@@ -66,6 +66,7 @@ public class Main {
         System.out.println("Conteúdos inscritos Teste: " + devTeste.getConteudosInscritos());
         devTeste.progredir();
         System.out.println("XP Teste: " + devTeste.calcularTotalXp());
-
+        //testando atualização do codigo
+        System.out.println("Fim");
     }
 }
